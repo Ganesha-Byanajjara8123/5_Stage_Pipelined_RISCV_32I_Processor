@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 Overview
+## 📌 Overview 
 
 A **32-bit RISC-V RV32I processor** built at the RTL level in Verilog, implementing a classic **5-stage pipeline**. Individual blocks were designed and verified independently before integration into the full pipelined CPU.
 
